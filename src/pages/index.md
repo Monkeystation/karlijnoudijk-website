@@ -1,9 +1,9 @@
 ---
 design_skills: Concept, Branding, Photography, Photoshop, Illustrator, Video- & Audio Editing
 templateKey: index-page
-image: /img/me.jpg
-name: Job Wind
-occupation: Freelance full stack developer
+image: /img/karlijn.jpg
+name: Karlijn Oudijk
+occupation: Lorem ipsum
 email:
   caption: Send me a message
   link: mailto:job@monkeystation.nl
