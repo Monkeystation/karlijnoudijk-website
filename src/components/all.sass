@@ -1,0 +1,68 @@
+@import "~bulma/sass/utilities/initial-variables"
+
+// Config vars
+$primary: #8db2c1
+$primary-invert: #fff
+$body-color: #fff
+$body-bg-color: #0d0d0d
+$black: #0d0d0d
+$white: #fff
+$blue: #8db2c1
+$transparent: rgba(0,0,0,0) !important
+$title-color: $white
+$subtitle-color: $blue !important
+
+html,
+body
+  background-color: $body-bg-color !important
+html,
+body,
+#___gatsby,
+#gatsby-focus-wrapper,
+#gatsby-focus-wrapper > div,
+#gatsby-focus-wrapper > div > div,
+.is-fullheight
+  height: 100%
+  
+.main-content
+  margin: 30px 70px !important
+  overflow-y: scroll
+  
+blockquote
+  background-color: $transparent
+  padding: 0 !important
+  border-left: 0 !important
+  p
+    margin-bottom: 0 !important
+  footer::before 
+    content: "\2014 \00A0"
+
+.button
+  height: auto !important
+  transition: all .15s ease
+  
+.blue-text 
+  color: $blue !important
+
+.white-text 
+  color: $white !important
+
+.image
+  background-size: cover
+  background-position: top center
+
+@import "~bulma"
+
+
+// responsiveness
++tablet-only
+  .main-content
+    margin: 30px !important
+
++mobile
+  .image
+    height: calc(100% - 78px)
+  
+  .main-content
+    margin: 20px 20px 30px 20px !important
+
