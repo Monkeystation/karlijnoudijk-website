@@ -26,7 +26,7 @@ export const IndexPageTemplate = ({
         <div className="column image" style={{backgroundImage:`url(${imageUrl})`}}></div>
         <div className="column content main-content">
           <div className="content">
-            <h4 className="white-text title is-4 has-text-centered-mobile" id="name">{name}</h4>
+            <h4 className="title is-4 has-text-centered-mobile" id="name">{name}</h4>
             <h6 className="subtitle is-6 mb-0 has-text-centered-mobile is-uppercase" id="occupation">{occupation}</h6>
           </div>
           <div className="content">
