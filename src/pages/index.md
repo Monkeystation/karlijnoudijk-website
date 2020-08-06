@@ -20,10 +20,10 @@ description: >-
   Ik ben Karlijn Oudijk, een creatieve commercieel met een sterke start-up mentaliteit. One-stop-shop op het gebied van creatie, marketing, sales en events. 
 
 
-  Mensen ervaren mij als een energieke, scherpe en mensgerichte gesprekspartner met een duidelijke visie en een ijzersterk netwerk. Ik heb meer dan 10 jaar corporate ervaring, maar daarnaast ook beginnende bedrijven begeleid en dus  gewerkt met budgettering van €0 - €15mln binnen zeer uiteenlopende bedrijfstakken.
+  Mensen ervaren mij als een energieke, scherpe en mensgerichte gesprekspartner met een duidelijke visie en een ijzersterk netwerk. Ik heb meer dan 10 jaar corporate ervaring maar daarnaast ook beginnende bedrijven begeleid en dus gewerkt met budgettering van €0 - €15mln binnen zeer uiteenlopende bedrijfstakken.
 
 
-  Ik kan je o.a. van dienst zijn met:
+  Ik kan jou o.a. van dienst zijn met:
 
 
   * Projectontwikkeling en uitvoering van A tot Z
