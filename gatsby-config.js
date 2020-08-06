@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'Monkey Station',
+    title: 'Karlijn Oudijk,
     description:
       '',
   },
