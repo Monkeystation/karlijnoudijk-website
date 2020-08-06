@@ -23,7 +23,7 @@ export const IndexPageTemplate = ({
   return (
     <div className="is-fullheight">
       <div className="columns is-tablet is-fullheight is-gapless">
-        <div className="column image" style={{backgroundImage:`url(${imageUrl})`}}></div>
+        <div className="column image is-5" style={{backgroundImage:`url(${imageUrl})`}}></div>
         <div className="column content main-content">
           <div className="content">
             <h4 className="title is-4 has-text-centered-mobile" id="name">{name}</h4>
